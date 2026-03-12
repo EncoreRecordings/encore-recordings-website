@@ -319,7 +319,7 @@ a {
 .marquee-track {
   display: flex;
   gap: 3rem;
-  animation: marquee 30s linear infinite;
+  animation: marquee 60s linear infinite;
   width: max-content;
 }
 
