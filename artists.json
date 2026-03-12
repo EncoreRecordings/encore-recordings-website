@@ -1,0 +1,301 @@
+[
+  {
+    "name": "Khamari",
+    "slug": "khamari",
+    "profileImage": "images/artists/khamari-profile.jpg",
+    "wideImage": "images/artists/khamari-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ",
+      "appleMusic": "https://music.apple.com/us/artist/khamari/1042006565",
+      "youtube": "https://youtube.com/@khamari",
+      "instagram": "https://instagram.com/khamari",
+      "tiktok": "https://tiktok.com/@khamari"
+    }
+  },
+  {
+    "name": "Victony",
+    "slug": "victony",
+    "profileImage": "images/artists/victony-profile.jpg",
+    "wideImage": "images/artists/victony-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG",
+      "appleMusic": "https://music.apple.com/us/artist/victony/1456464026",
+      "youtube": "https://youtube.com/@Victony",
+      "instagram": "https://instagram.com/vict0ny",
+      "tiktok": "https://tiktok.com/@vict0ny"
+    }
+  },
+  {
+    "name": "Karly Bowman",
+    "slug": "karly-bowman",
+    "profileImage": "images/artists/karly-bowman-profile.jpg",
+    "wideImage": "images/artists/karly-bowman-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/6pMnomeWng0MECHaNIYBY6",
+      "appleMusic": "https://music.apple.com/us/artist/karly-bowman/1736055139",
+      "youtube": "",
+      "instagram": "https://instagram.com/karlybowmann",
+      "tiktok": "https://tiktok.com/@karlybowmann"
+    }
+  },
+  {
+    "name": "Girlfriend",
+    "slug": "girlfriend",
+    "profileImage": "images/artists/girlfriend-profile.jpg",
+    "wideImage": "images/artists/girlfriend-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/1ao4XlZGazbxbP6V3k4SnY",
+      "appleMusic": "https://music.apple.com/us/artist/girlfriend/1511096374",
+      "youtube": "",
+      "instagram": "https://instagram.com/girlfriend.____",
+      "tiktok": "https://tiktok.com/@girlfriend.____"
+    }
+  },
+  {
+    "name": "KiDi",
+    "slug": "kidi",
+    "profileImage": "images/artists/kidi-profile.jpg",
+    "wideImage": "images/artists/kidi-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V",
+      "appleMusic": "https://music.apple.com/us/artist/kidi/1340741498",
+      "youtube": "https://youtube.com/@KiDiMusic",
+      "instagram": "https://instagram.com/kidimusic",
+      "tiktok": "https://tiktok.com/@kidimusicgh"
+    }
+  },
+  {
+    "name": "Kwesi Arthur",
+    "slug": "kwesi-arthur",
+    "profileImage": "images/artists/kwesi-arthur-profile.jpg",
+    "wideImage": "images/artists/kwesi-arthur-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY",
+      "appleMusic": "https://music.apple.com/us/artist/kwesi-arthur/1310635737",
+      "youtube": "https://youtube.com/@KwesiArthur",
+      "instagram": "https://instagram.com/kwesiarthur_",
+      "tiktok": "https://tiktok.com/@kwesiarthur_"
+    }
+  },
+  {
+    "name": "Dei V",
+    "slug": "dei-v",
+    "profileImage": "images/artists/dei-v-profile.jpg",
+    "wideImage": "images/artists/dei-v-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP",
+      "appleMusic": "https://music.apple.com/us/artist/dei-v/1515317241",
+      "youtube": "https://youtube.com/@DeiVUWM",
+      "instagram": "https://instagram.com/deivpr",
+      "tiktok": "https://tiktok.com/@deivpr"
+    }
+  },
+  {
+    "name": "Uncle Waffles",
+    "slug": "uncle-waffles",
+    "profileImage": "images/artists/uncle-waffles-profile.jpg",
+    "wideImage": "images/artists/uncle-waffles-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/68McnNC9twEtiynOAJRRgZ",
+      "appleMusic": "https://music.apple.com/za/artist/uncle-waffles/1612263083",
+      "youtube": "https://youtube.com/@UncleWaffles",
+      "instagram": "https://instagram.com/unclewaffles_",
+      "tiktok": "https://tiktok.com/@uncle.waffles"
+    }
+  },
+  {
+    "name": "LAJA",
+    "slug": "laja",
+    "profileImage": "images/artists/laja-profile.jpg",
+    "wideImage": "images/artists/laja-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/6z6URinoHeWcsTB20nX3qb",
+      "appleMusic": "https://music.apple.com/us/artist/laja/1697735981",
+      "youtube": "",
+      "instagram": "https://instagram.com/laja0ficial",
+      "tiktok": ""
+    }
+  },
+  {
+    "name": "Dowba Montana",
+    "slug": "dowba-montana",
+    "profileImage": "images/artists/dowba-montana-profile.jpg",
+    "wideImage": "images/artists/dowba-montana-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO",
+      "appleMusic": "https://music.apple.com/us/artist/dowba-montana/1459338383",
+      "youtube": "https://youtube.com/@dowbamontananyc",
+      "instagram": "https://instagram.com/dowbamontana",
+      "tiktok": "https://tiktok.com/@dowbamontana_"
+    }
+  },
+  {
+    "name": "i don't like mirrors",
+    "slug": "i-dont-like-mirrors",
+    "profileImage": "images/artists/i-dont-like-mirrors-profile.jpg",
+    "wideImage": "images/artists/i-dont-like-mirrors-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/7sZCJvKlrUa5wP3GDnW0ld",
+      "appleMusic": "https://music.apple.com/us/artist/i-dont-like-mirrors/1712403848",
+      "youtube": "",
+      "instagram": "https://instagram.com/i.dontlikemirrors",
+      "tiktok": ""
+    }
+  },
+  {
+    "name": "Kojo Blak",
+    "slug": "kojo-blak",
+    "profileImage": "images/artists/kojo-blak-profile.jpg",
+    "wideImage": "images/artists/kojo-blak-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW",
+      "appleMusic": "https://music.apple.com/us/artist/kojo-blak/1568168631",
+      "youtube": "",
+      "instagram": "https://instagram.com/kojoblak_",
+      "tiktok": "https://tiktok.com/@kojoblak_"
+    }
+  },
+  {
+    "name": "Llona",
+    "slug": "llona",
+    "profileImage": "images/artists/llona-profile.jpg",
+    "wideImage": "images/artists/llona-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc",
+      "appleMusic": "https://music.apple.com/ng/artist/llona/1618235780",
+      "youtube": "",
+      "instagram": "https://instagram.com/boyllona",
+      "tiktok": "https://tiktok.com/@boyllona"
+    }
+  },
+  {
+    "name": "EBK Jaaybo",
+    "slug": "ebk-jaaybo",
+    "profileImage": "images/artists/ebk-jaaybo-profile.jpg",
+    "wideImage": "images/artists/ebk-jaaybo-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/7iKgSlIINjat3bsCYiNMYX",
+      "appleMusic": "https://music.apple.com/us/artist/ebk-jaaybo/1546909526",
+      "youtube": "https://youtube.com/@EBKJaaybo",
+      "instagram": "https://instagram.com/ebkjaaybo",
+      "tiktok": "https://tiktok.com/@ebkjaaybo_"
+    }
+  },
+  {
+    "name": "HENESYKIM",
+    "slug": "henesykim",
+    "profileImage": "images/artists/henesykim-profile.jpg",
+    "wideImage": "images/artists/henesykim-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/0ZfxGQc5dcpD2tnKrkFims",
+      "appleMusic": "",
+      "youtube": "",
+      "instagram": "https://instagram.com/henesykim",
+      "tiktok": ""
+    }
+  },
+  {
+    "name": "ShineTTW",
+    "slug": "shinettw",
+    "profileImage": "images/artists/shinettw-profile.jpg",
+    "wideImage": "images/artists/shinettw-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn",
+      "appleMusic": "https://music.apple.com/us/artist/shine-ttw/1649199436",
+      "youtube": "",
+      "instagram": "https://instagram.com/shinettw",
+      "tiktok": "https://tiktok.com/@shinettw"
+    }
+  },
+  {
+    "name": "Saul Villarreal",
+    "slug": "saul-villarreal",
+    "profileImage": "images/artists/saul-villarreal-profile.jpg",
+    "wideImage": "images/artists/saul-villarreal-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/2x8UcZmAbP008alg57hI3K",
+      "appleMusic": "https://music.apple.com/us/artist/saul-villarreal/1707495974",
+      "youtube": "",
+      "instagram": "https://instagram.com/saul.v_",
+      "tiktok": "https://tiktok.com/@saulv_"
+    }
+  },
+  {
+    "name": "The 9ine",
+    "slug": "the-9ine",
+    "profileImage": "images/artists/the-9ine-profile.jpg",
+    "wideImage": "images/artists/the-9ine-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/25f1NjILSP7owhgqIQNOPg",
+      "appleMusic": "https://music.apple.com/us/artist/the-9ine/1499735008",
+      "youtube": "",
+      "instagram": "https://instagram.com/the_9ine",
+      "tiktok": ""
+    }
+  },
+  {
+    "name": "Dylan Hughes",
+    "slug": "dylan-hughes",
+    "profileImage": "images/artists/dylan-hughes-profile.jpg",
+    "wideImage": "images/artists/dylan-hughes-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/1Tb9g8gVybdlkkqVgd7rUw",
+      "appleMusic": "https://music.apple.com/us/artist/dylan-hughes/1785986837",
+      "youtube": "",
+      "instagram": "https://instagram.com/dylanghughes",
+      "tiktok": "https://tiktok.com/@dylanghughes"
+    }
+  },
+  {
+    "name": "Jermain Reese Jr.",
+    "slug": "jermain-reese-jr",
+    "profileImage": "images/artists/jermain-reese-jr-profile.jpg",
+    "wideImage": "images/artists/jermain-reese-jr-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/3qcuLIoSn9oRiqljDxvx2T",
+      "appleMusic": "https://music.apple.com/us/artist/jermain-reese-jr/1823323881",
+      "youtube": "",
+      "instagram": "https://instagram.com/jermainreesejr",
+      "tiktok": ""
+    }
+  },
+  {
+    "name": "zatru",
+    "slug": "zatru",
+    "profileImage": "images/artists/zatru-profile.jpg",
+    "wideImage": "images/artists/zatru-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/4glSzPWbk7AjGi2EoHmATy",
+      "appleMusic": "",
+      "youtube": "",
+      "instagram": "https://instagram.com/zatru69",
+      "tiktok": ""
+    }
+  },
+  {
+    "name": "Ling Hussle",
+    "slug": "ling-hussle",
+    "profileImage": "images/artists/ling-hussle-profile.jpg",
+    "wideImage": "images/artists/ling-hussle-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/5dRGjTajHb5S33PwfxAaBj",
+      "appleMusic": "https://music.apple.com/us/artist/ling-hussle/1350852977",
+      "youtube": "",
+      "instagram": "https://instagram.com/linghussle",
+      "tiktok": "https://tiktok.com/@linghussle"
+    }
+  },
+  {
+    "name": "Miluhska",
+    "slug": "miluhska",
+    "profileImage": "images/artists/miluhska-profile.jpg",
+    "wideImage": "images/artists/miluhska-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY",
+      "appleMusic": "",
+      "youtube": "",
+      "instagram": "https://instagram.com/miluhska",
+      "tiktok": ""
+    }
+  }
+]

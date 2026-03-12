@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Encore Recordings</title>
+  <link rel="icon" type="image/png" href="images/favicon.png">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800;900&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Cursor follower -->
+  <div class="cursor-glow" id="cursor-glow"></div>
+
+  <!-- Nav -->
+  <nav class="nav" id="nav">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">
+        <img src="images/encore-logo.png" alt="Encore Recordings" class="nav-logo-img">
+      </a>
+      <div class="nav-links">
+        <a href="#roster" class="nav-link">Roster</a>
+        <a href="https://instagram.com/encorerecordings" target="_blank" rel="noopener" class="nav-link nav-link--ig" aria-label="Instagram">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero -->
+  <section class="hero" id="hero">
+    <div class="hero-noise"></div>
+    <div class="hero-lines">
+      <div class="hero-line"></div>
+      <div class="hero-line"></div>
+      <div class="hero-line"></div>
+      <div class="hero-line"></div>
+      <div class="hero-line"></div>
+    </div>
+    <div class="hero-content">
+      <img src="images/encore-logo.png" alt="Encore Recordings" class="hero-logo">
+      <a href="#roster" class="hero-cta">
+        <span>Explore Roster</span>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><polyline points="19 12 12 19 5 12"/></svg>
+      </a>
+    </div>
+    <div class="hero-scroll-indicator">
+      <div class="hero-scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- Marquee -->
+  <div class="marquee-section">
+    <div class="marquee-track" id="marquee-track">
+      <!-- Filled by JS -->
+    </div>
+  </div>
+
+  <!-- Artists -->
+  <section class="roster" id="roster">
+    <div class="roster-inner">
+      <div class="roster-header">
+        <div class="roster-header-line"></div>
+        <h2 class="roster-title">[ THE ROSTER ]</h2>
+        <div class="roster-header-line"></div>
+      </div>
+      <div class="roster-grid" id="roster-grid">
+        <!-- Filled by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- Artist Expanded View -->
+  <div class="artist-expand" id="artist-expand">
+    <div class="artist-expand-backdrop" id="expand-backdrop"></div>
+    <div class="artist-expand-content" id="expand-content">
+      <button class="expand-close" id="expand-close">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="18" y1="6" x2="6" y2="18"/><line x1="6" y1="6" x2="18" y2="18"/></svg>
+      </button>
+      <div class="expand-wide" id="expand-wide"></div>
+      <div class="expand-body">
+        <div class="expand-info">
+          <img class="expand-profile" id="expand-profile" src="" alt="">
+          <div>
+            <h2 class="expand-name" id="expand-name"></h2>
+            <p class="expand-label">Encore Recordings</p>
+          </div>
+        </div>
+        <div class="expand-links" id="expand-links"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-top">
+        <img src="images/encore-logo.png" alt="Encore Recordings" class="footer-logo">
+        <div class="footer-social">
+          <a href="https://instagram.com/encorerecordings" target="_blank" rel="noopener" class="footer-social-link">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
+            <span>@encorerecordings</span>
+          </a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span class="footer-copy">&copy; 2026 Encore Recordings. All rights reserved.</span>
+      </div>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
