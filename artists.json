@@ -258,44 +258,5 @@
       "instagram": "https://instagram.com/jermainreesejr",
       "tiktok": ""
     }
-  },
-  {
-    "name": "zatru",
-    "slug": "zatru",
-    "profileImage": "images/artists/zatru-profile.jpg",
-    "wideImage": "images/artists/zatru-wide.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/artist/4glSzPWbk7AjGi2EoHmATy",
-      "appleMusic": "",
-      "youtube": "",
-      "instagram": "https://www.instagram.com/thismypokerface",
-      "tiktok": ""
-    }
-  },
-  {
-    "name": "Ling Hussle",
-    "slug": "ling-hussle",
-    "profileImage": "images/artists/ling-hussle-profile.jpg",
-    "wideImage": "images/artists/ling-hussle-wide.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/artist/5dRGjTajHb5S33PwfxAaBj",
-      "appleMusic": "https://music.apple.com/us/artist/ling-hussle/1350852977",
-      "youtube": "",
-      "instagram": "https://instagram.com/linghussle",
-      "tiktok": "https://tiktok.com/@linghussle"
-    }
-  },
-  {
-    "name": "Miluhska",
-    "slug": "miluhska",
-    "profileImage": "images/artists/miluhska-profile.jpg",
-    "wideImage": "images/artists/miluhska-wide.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY",
-      "appleMusic": "",
-      "youtube": "",
-      "instagram": "https://instagram.com/miluhska",
-      "tiktok": ""
-    }
   }
 ]
