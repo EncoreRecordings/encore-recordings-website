@@ -1,0 +1,7 @@
+{
+  "name": "encore-recordings-website",
+  "private": true,
+  "devDependencies": {
+    "wrangler": "^3"
+  }
+}
