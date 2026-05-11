@@ -169,6 +169,31 @@
     }
   },
   {
+    "name": "318dman",
+    "slug": "318dman",
+    "profileImage": "images/artists/318dman-profile.jpg",
+    "wideImage": "images/artists/318dman-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/0iEcoGz1YaKNF19yz37IBm",
+      "appleMusic": "https://music.apple.com/us/artist/318dman/1772352733",
+      "youtube": "https://www.youtube.com/@318dman",
+      "instagram": "https://www.instagram.com/biggvulturee5"
+    }
+  },
+  {
+    "name": "Liv Romano",
+    "slug": "liv-romano",
+    "profileImage": "images/artists/liv-romano-profile.jpg",
+    "wideImage": "images/artists/liv-romano-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/0880SwmMnloU70bjrwbdOa",
+      "appleMusic": "https://music.apple.com/us/artist/liv-romano/1620514433",
+      "youtube": "https://www.youtube.com/@livromano",
+      "instagram": "https://www.instagram.com/livromano",
+      "tiktok": "https://www.tiktok.com/@livromanosongs"
+    }
+  },
+  {
     "name": "EBK Jaaybo",
     "slug": "ebk-jaaybo",
     "profileImage": "images/artists/ebk-jaaybo-profile.jpg",
@@ -257,6 +282,20 @@
       "youtube": "https://www.youtube.com/channel/UCGAnc8oHGAKOA8CUvE4xvPQ",
       "instagram": "https://instagram.com/jermainreesejr",
       "tiktok": "https://www.tiktok.com/@jermainreesejr"
+    }
+  },
+  
+  {
+    "name": "Flacoomc",
+    "slug": "flacoomc",
+    "profileImage": "images/artists/flacoomc-profile.jpg",
+    "wideImage": "images/artists/flacoomc-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/17Ph0LJ61ns5XYFeYc3nXT",
+      "appleMusic": "https://music.apple.com/us/artist/flacoomc/1853146239",
+      "youtube": "https://www.youtube.com/channel/UCQWr1PRL0a_cnaHNKZDWLuA",
+      "instagram": "https://www.instagram.com/f1acoomc",
+      "tiktok": "https://www.tiktok.com/@f1acoomc"
     }
   }
 ]
