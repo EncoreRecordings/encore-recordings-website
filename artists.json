@@ -233,6 +233,19 @@
     }
   },
   {
+    "name": "Lauren Rose",
+    "slug": "lauren-rose",
+    "profileImage": "images/artists/lauren-rose-profile.jpg",
+    "wideImage": "images/artists/lauren-rose-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/5cxp2EYF0ZPdMGXPq545tU",
+      "appleMusic": "https://music.apple.com/us/artist/lauren-rose/1835642702",
+      "youtube": "https://www.youtube.com/channel/UCs-Jj-CaUe32x_MVDLF43Gw",
+      "instagram": "https://instagram.com/laurenrosemusic",
+      "tiktok": "https://www.tiktok.com/@laurenrosemusicc"
+    }
+  },
+  {
     "name": "Saul Villarreal",
     "slug": "saul-villarreal",
     "profileImage": "images/artists/saul-villarreal-profile.jpg",
