@@ -117,19 +117,6 @@
     }
   },
   {
-    "name": "Dowba Montana",
-    "slug": "dowba-montana",
-    "profileImage": "images/artists/dowba-montana-profile.jpg",
-    "wideImage": "images/artists/dowba-montana-wide.jpg",
-    "links": {
-      "spotify": "https://open.spotify.com/artist/39FKVjqhZLz4E1iG77d5AO",
-      "appleMusic": "https://music.apple.com/us/artist/dowba-montana/1459338383",
-      "youtube": "https://www.youtube.com/channel/UCQJEbIWcr3hqnqXEf93-2NQ",
-      "instagram": "https://instagram.com/dowbamontana",
-      "tiktok": "https://tiktok.com/@dowbamontana_"
-    }
-  },
-  {
     "name": "i don't like mirrors",
     "slug": "i-dont-like-mirrors",
     "profileImage": "images/artists/i-dont-like-mirrors-profile.jpg",
@@ -140,6 +127,32 @@
       "youtube": "https://www.youtube.com/channel/UCytoZm7HWT9VOFnFMnAYoWA",
       "instagram": "https://instagram.com/i.dontlikemirrors",
       "tiktok": "https://www.tiktok.com/@idontlikemirrors"
+    }
+  },
+  {
+    "name": "Miracle LRE",
+    "slug": "miracle-lre",
+    "profileImage": "images/artists/miracle-lre-profile.jpg",
+    "wideImage": "images/artists/miracle-lre-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/3kolJUxzzbzkZLZVUTAnQu",
+      "appleMusic": "https://music.apple.com/lr/artist/miracle-lre/1803963627",
+      "youtube": "https://www.youtube.com/channel/UC1yqjDhXa8WDPxz6a4n1pWg",
+      "instagram": "https://www.instagram.com/miraclelre",
+      "tiktok": "https://www.tiktok.com/@miraclelre"
+    }
+  },
+  {
+    "name": "Miluhska",
+    "slug": "miluhska",
+    "profileImage": "images/artists/miluhska-profile.jpg",
+    "wideImage": "images/artists/miluhska-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/7N3So4jUBd3uUbbx40TjpY",
+      "appleMusic": "https://music.apple.com/ve/artist/miluhska/1555327407",
+      "youtube": "https://www.youtube.com/@Miluhska",
+      "instagram": "https://www.instagram.com/miluhska",
+      "tiktok": "https://www.tiktok.com/@miluhska_"
     }
   },
   {
