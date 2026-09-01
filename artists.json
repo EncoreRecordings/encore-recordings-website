@@ -65,6 +65,20 @@
     }
   },
   {
+    "name": "ORA",
+    "slug": "ora",
+    "profileImage": "images/artists/ora-profile.jpg",
+    "wideImage": "images/artists/ora-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/6dTCWtVsf0zcqnXLXYLxdI",
+      "appleMusic": "https://music.apple.com/us/artist/ora/1882878953",
+      "youtube": "https://www.youtube.com/channel/UCvPkttM9Jfe7u24_-E4Ehiw",
+      "instagram": "https://www.instagram.com/ora.musicofficial",
+      "tiktok": "https://www.tiktok.com/@theoramusic"
+    }
+  },
+
+  {
     "name": "Kwesi Arthur",
     "slug": "kwesi-arthur",
     "profileImage": "images/artists/kwesi-arthur-profile.jpg",
