@@ -92,6 +92,19 @@
     }
   },
   {
+    "name": "Parisalexa",
+    "slug": "parisalexa",
+    "profileImage": "images/artists/parisalexa-profile.jpg",
+    "wideImage": "images/artists/parisalexa-wide.jpg",
+    "links": {
+      "spotify": "https://open.spotify.com/artist/7CZXfBcIhQ2dPEqk3N74vV",
+      "appleMusic": "https://music.apple.com/vg/artist/parisalexa/1080819853",
+      "youtube": "https://www.youtube.com/channel/UCGpvsJogYcdxbD_uje1TnRQ",
+      "instagram": "https://www.instagram.com/parisalexamusic",
+      "tiktok": "https://www.tiktok.com/@parisalexamusic"
+    }
+  },
+  {
     "name": "Dei V",
     "slug": "dei-v",
     "profileImage": "images/artists/dei-v-profile.jpg",
